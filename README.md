@@ -13,17 +13,14 @@ simple21 is a simple command-line version of the classic Blackjack (21) card gam
 
 ## Running the Game
     Clone the repository or download the files, then run:
-        ```
         python main.py
-        ```
-        That's it! Follow the on-screen prompts to play.
+    That's it! Follow the on-screen prompts to play.
 
 ## Project Structure
-        ```
         simple21/
         ├── game_logic.py   # Contains core Blackjack game functions and logic
         └── main.py         # Main entry point of the game
-        ```
+
 ## License
 This project is open source and free to use.
 
